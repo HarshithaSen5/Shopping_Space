@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Add</title>
+    </head>
+ <body>   
+<script>
+    var a=5;
+    var b=35;
+    var c=a+b;
+    document.write(c);
+</script>
+<script>
+    function f1()
+    {
+        alert("hi")
+    }
+</script>
+</body>
+</html>
+
+.navbar li
+{
+    color: rgb(54, 58, 58);
+    transition: 0.3s ease;
+}
+
+.navbar li a:hover{
+    color: rgb(12, 223, 223);
+}
+
+
+<div class="row">
+    <div class="col-2">
+        <h1> Stun The World With Our Accessories<br>Rule The world With Confidence</h1>
+    </div>
+</div>
+    <br>
+<div class="banner">
+    
+</div>
+<p class="about">Shopping space provide you a variety of new accessories at an affordable price. Our aim is to provide new arrivals at a great quality. The perfect accessory can make the difference between looking blah and totally to die for.In order to be irreplaceable one must always be different.</p>
+<br><br><br><br><br><br><br><p align="left" style="color:white">&copy Shopping Space</p>
+</body>
+</html>	

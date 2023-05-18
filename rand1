@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Restaurant Menu</title>
+  <link rel="stylesheet" href="menu.css">
+</head>
+<body>
+ <div id="menu">
+  <h1 id="section">Menu</h1>
+  <div class="menu_row">
+    <div class="menu_col">
+      <div class="box">
+        <div class="image">
+          <img src="C:\Users\dell\Desktop\Image\img7.jpg">
+        </div>
+        <div>
+          <h3>Tasty dish 01</h3>
+          <h4>10rs</h4>
+        </div>
+      </div>
+      <div class="box">
+        <div class="image">
+          <img src="nashville.jpg">
+        </div>
+        <div>
+          <h3>Tasty dish 02</h3>
+          <h4>20rs</h4>
+        </div>
+      </div>
+      <div class="box">
+        <div class="image">
+          <img src="buffalo wings.jpg">
+        </div>
+        <div>
+          <h3>Tasty dish 03</h3>
+          <h4>30rs</h4>
+        </div>
+      </div>
+    </div>
+
+    <div class="menu_col">
+      <h2>Lunch</h2>
+      <div class="box">
+        <div class="image">
+          <img src="taco.jpg">
+        </div>
+        <div>
+          <h3>Tasty dish 04</h3>
+          <h4>40rs</h4>
+        </div>
+      </div>
+      <div class="box">
+        <div class="image">
+          <img src="nashville.jpg">
+        </div>
+        <div>
+          <h3>Tasty dish 05</h3>
+          <h4>50rs</h4>
+        </div>
+      </div>
+      <div class="box">
+        <div class="image">
+          <img src="buffalo wings.jpg">
+        </div>
+        <div>
+          <h3>Tasty dish 06</h3>
+          <h4>60rs</h4>
+        </div>
+      </div>
+    </div>
+
+    <div class="menu_col">
+      <h2>Dinner</h2>
+      <div class="box">
+        <div class="image">
+          <img src="taco.jpg">
+        </div>
+        <div>
+          <h3>Tasty dish 07</h3>
+          <h4>70rs</h4>
+        </div>
+      </div>
+      <div class="box">
+        <div class="image">
+          <img src="nashville.jpg">
+        </div>
+        <div>
+          <h3>Tasty dish 08</h3>
+          <h4>80rs</h4>
+        </div>
+      </div>
+      <div class="box">
+        <div class="image">
+          <img src="buffalo wings.jpg">
+        </div>
+        <div>
+          <h3>Tasty dish 09</h3>
+          <h4>90rs</h4>
+        </div

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+ <head>
+	<title>Shopping Space</title>
+	<link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+	<h1 align=center></h1>
+	<div class="navbar">
+	<img class="logo" src="C:\Users\dell\Desktop\Image\Logo.png" alt=shoplog align="left"><hr>
+          <h1 class="first">SHOPPING SPACE</h1>
+	  </h1>
+	</div>
+	<div class="navbar">
+		
+	<a href="shoppers space.html">Home</a>
+	<a href="products.html">Products</a>
+	<a href="form.html">Coupon</a>
+	<a href="contact.html">Contact</a>
+	</div>
+	<p align="center" style="font-size:50px; color:white">Stun The World</p>
+		<br>
+		<p class="about">Shopping space provide you a variety of new accessories at an affordable price. Our aim is to provide new arrivals at a great quality. The perfect accessory can make the difference between looking blah and totally to die for.In order to be irreplaceable one must always be different.</p>
+<br><br><br><br><br><br><br><p align="left" style="color:white">&copy Shopping Space</p>
+	</body>
+	</html>	
